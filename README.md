@@ -27,7 +27,7 @@ A curated collection of mini Python projects created as learning exercises. Each
 
 ---
 
-## 🗂 Projects (with 3–4 line descriptions)
+## 🗂 Projects
 
 ### Adventure Story Game — Advanture_Story_Game.py 🧭
 A text-based, branching narrative that asks the player to make choices (left/right, swim/walk, hide/flee, etc.) which lead to different outcomes. Uses time.sleep to pace the story and create suspense. Great for beginners learning conditional flow and simple input handling. Note: filename contains a minor typo ("Advanture").
